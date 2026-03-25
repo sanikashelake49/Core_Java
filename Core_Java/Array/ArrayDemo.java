@@ -18,7 +18,7 @@ public class ArrayDemo {
 		//reverse array print
 		for(int i=5;i>=0;i--)
 		{
-			System.out.println(arr[i]);
+		   System.out.println(arr[i]);
 		}
 		System.out.println("the success");
 		//when we do not know the actual array
