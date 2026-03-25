@@ -39,7 +39,7 @@ public class ArrayDemo {
 	    System.out.println("enter a input");
 	    for(int i=0;i<size;i++)
 	    {
-	    	arr1[i]=sc.nextInt();
+	    	 arr1[i]=sc.nextInt();
 	    	
 	    }
 	   // int n=0;
