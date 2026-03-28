@@ -14,7 +14,7 @@ public class ArrayDemo {
 			System.out.println(arr[i]);
 			//i++;
 		}
-		System.out.println("the success");
+		 System.out.println("the success");
 		//reverse array print
 		for(int i=5;i>=0;i--)
 		{
