@@ -4,7 +4,7 @@ public class Ascending_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// ascending 
+		// ascending order 
        int arr[]= {8,7,6,9};
       int max=arr[0];
       for(int i=1;i<arr.length;i++) {
