@@ -10,7 +10,7 @@ public class DemoCart {
 		// TODO Auto-generated method stub
 		//defining the map-adding items to the map
 		Map<Integer,ItemDescription> itemDesc=new HashMap<>();
-		itemDesc.put(1, new ItemDescription("apple",35.5f));
+ 		itemDesc.put(1, new ItemDescription("apple",35.5f));
 		itemDesc.put(2, new ItemDescription("orange",25.45f));
 		
 		//adding items to the cart
