@@ -14,7 +14,7 @@ public class DemoAbstract_DynDisp {
 		e = re;
 		System.out.println("reg emp sal is"+e.calcSal());
 		//getting the salary for the contract emp
-		//now pointing to contract employee object 
+		//now pointing to contract employee object
 		e=ce;
 		System.out.println("contract emp sal is"+e.calcSal());
 
