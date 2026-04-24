@@ -10,7 +10,7 @@ public class Ascending_Array {
       for(int i=1;i<arr.length;i++) {
     	  if(arr[i]>max) {
     		  //System.out.println(arr[i]);
-    	        max=arr[i];}
+    	         max=arr[i];}
     	  System.out.println(max);
 
       }
