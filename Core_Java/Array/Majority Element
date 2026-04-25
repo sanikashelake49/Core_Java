@@ -5,7 +5,7 @@ public class MajorityElement {
 
         for (int num : nums) {
             if (count == 0) {
-                candidate = num;
+                 candidate = num;
             }
 
             if (num == candidate) {
