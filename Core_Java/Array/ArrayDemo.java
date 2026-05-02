@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		 // TODO Auto-generated method stub
+	     // TODO Auto-generated method stub
 		
 		//simple array print if we know its size
 		int arr[]= {1,2,3,4,5,6};
