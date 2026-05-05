@@ -7,7 +7,7 @@ public class DemoAbstract_DynDisp {
 		RegEmp re=new RegEmp(1,"java",21000);
 	 CtrEmp ce=new CtrEmp(111,"spring");
 		
-		//using DMD-
+		 //using DMD-
 		//DMD for the parent reff and call child method
 		//get the salary for the reg employee
 		//parent class reference variable pointing to child class object
