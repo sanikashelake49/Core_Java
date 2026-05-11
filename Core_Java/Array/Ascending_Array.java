@@ -11,7 +11,7 @@ public class Ascending_Array {
     	  if(arr[i]>max) {
     		  //System.out.println(arr[i]);
     	         max=arr[i];}
-    	  System.out.println(max);
+    	  System.out.println(max); 
 
       }
     	  
