@@ -7,7 +7,7 @@ public class DemoMap {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Map<Integer,String>  m;                                       //key-Integer(class which should be unique
-         HashMap<Integer,String> hm=new HashMap<>();                         //value-class
+         HashMap<Integer,String> hm=new HashMap<>();                          //value-class
 	  //add some objects
          hm.put(91, "India");
          hm.put(911, "USA");
