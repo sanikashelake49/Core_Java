@@ -4,7 +4,7 @@ public class VowelCount {
 	
 	public static void main(String[] args) {
 		
-		String str="OnkarKarande05@gmail.com   Hello";
+		String str="shelakesanika49@gmail.com   Hello";
 		//take variable for the vowels count
 		int vowel=0,
 			consonants=0,
