@@ -1,7 +1,7 @@
 class CountWords {
     public static void main(String[] args) {
 
-        String str = "Onkar";
+        String str = "Sanika";
 
         int count = 1;
 
