@@ -4,7 +4,7 @@ public class CheckUpperCase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str="OnKaR";
+		String str="SaNIka";
         
 		//this variable for the holding upper case count 
 		int upper=0;
